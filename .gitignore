@@ -1,0 +1,12 @@
+# Variables d'environnement
+.env
+
+# Cache Spotify
+.cache
+
+# Dépendances
+node_modules/
+__pycache__/
+
+# Build React
+build/
